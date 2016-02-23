@@ -170,7 +170,7 @@ ctx.ReactOnRails = {
   },
 };
 
-ReactOnRails.resetOptions();
+ctx.ReactOnRails.resetOptions();
 
 clientStartup(ctx);
 
